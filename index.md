@@ -7,4 +7,5 @@ MusicSurf is aimed at both casual listeners and music enthusiast alike as a day 
 
 ### Stages of Design
 The stages of this project can be found at the pages:
+
 [Stage 1: Project Ideation](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1)
