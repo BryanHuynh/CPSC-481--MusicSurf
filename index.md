@@ -1,8 +1,6 @@
 ## MusicSurf
 
-You can use the [editor on GitHub](https://github.com/colinauyeng/CPSC-481--MusicSurf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MusicSurf proposes using visualization in order to present a more natural experience when interacting with music. While most music apps on the market today present music in lists, MusicSurf looks create a dynamic interface for interacting with music libraries by visualizing key elements of songs such as mood, speed, volume range that are important for users to select songs from their library and placing those songs such that it facilitates a browsing experience as opposed to a searching experience that current apps provide. MusicSurf also proposes a novel way of playing music. Current music apps often play music from playlists or albums which are designed to be listened to either in order or in random order. MusicSurf on the other hand presents music in network with songs connected to each other by heuristics such as mood, speed, genre and so forth allowing users to explore music as they would explore a forest on foot. The user can either provide MusicSurf with heuristics which determine the path that 
 
 ### Markdown
 
