@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages !!!!!!!!
+##Proposed Ideas
+###Proposed idea: MusicSurf
+With the decline of radio stations and the rise of self-made playlists, finding new music can be difficult. It can be easy to limit oneself into only the music that already knows and not explore what else is out there and what is new. Many music services allow you to browse playlists or auto-generate recommended next songs, but it’s not always clear why songs are being grouped together or recommended meaning that when you do find something new that you like, it can be hard to understand what lead you to this new piece and why you like it. MusicSurf is a webapp that proposes a visual music explorer that allows you to customize your musical journey. One starts by adding a song to start from then MusicSurf begins to build a web of songs connected by certain similar aspects for you to traverse at your leisure, allowing you to handcraft your own musical journey, hopefully finding new bands and genres that you enjoy along the way. This way you can understand the path that you took to find new music in order to understand why you like this music and can go about finding more music that might interest you. 
 
-You can use the [editor on GitHub](https://github.com/colinauyeng/CPSC-481--MusicSurf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###Proposed idea: Money Saver
+In today’s world, the consumption cycles has become faster, more aggressively advertised and more addicted. This has led to more impulse buying habits and with that, record high debt rates for Canadians. Money saver proposes a middle man between you and your bank in order to help you save money. Unlike other apps which simply allows you to form plans in order to save money, Money Savers is a mobile app that acts a third party between you and transactions. You enter your weekly, monthly or yearly budget, your money set aside for bills and how much you want to save. Then you enter how much you want to spend in each spending category (food, entertainment, etc) and then Money Saver provides notifications about how much is being spent, warning you when you’re approaching your limit and finally stopping you from making purchases when you are over your limit. Money Saver is designed to help you to keep to your spending habits in a way that keeps you in the loop with what’s going on in your finances and prevent you from making poor decisions that will affect your finances
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Proposed idea: Skip the Line
+The University of Calgary is home to thousands of students, but has limited places to purchase food. Most food vendors are found in Machall, which gets extremely busy over the lunch hour. As such, some students may not have the time between classes or other commitments to wait in line. Skip the Line is a mobile app that allows students to order food remotely and pick it up at their desired Machall fast-food vendor. Orders are sent to the app as requests that can be accepted by students already waiting line at that vendor. Upon accepting an order request, the student in line will also order for the other student. Like Uber, order acceptance confirmation from both parties will deposit money for the food items and a small tip into the account of the person physically ordering the food. Both parties can then meet at the food vendor and get their orders once they have been prepared. Along with saving students’ time, Skip the Line benefits those who want to take advantage of already being in line and earn a little money.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colinauyeng/CPSC-481--MusicSurf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
