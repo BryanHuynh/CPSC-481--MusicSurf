@@ -1,7 +1,7 @@
 [home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) 
 ## Stage 3: Ideation
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NZVA_vplFzc&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NZVA_vplFzc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <img src="sketch1.png" alt="hi" class="inline"/>
 
