@@ -1,4 +1,4 @@
-[home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) 
+[home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage3)  
 ## MusicSurf
 
 ### Stages of Design
@@ -7,6 +7,8 @@ The stages of this project can be found at the pages:
 [Stage 1: Project Ideation](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1)
 
 [Stage 2: Investigation](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2)
+
+[Stage 3: Ideation](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage3)
 
 ### Problem
 Current music platforms like Spotify or Apple Music show music in a standard database style system and give recommendations through auto generated playlists. This means that users are not able to explore music freely and often only find new music due to auto generated playlists which they don’t have control over. 
