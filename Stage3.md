@@ -3,7 +3,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=NZVA_vplFzc&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<img src="/sketch1.png" alt="hi" class="inline"/>
+<img src="sketch1.png" alt="hi" class="inline"/>
 
 ### User Research Methods, Justifications and Reflections
 
