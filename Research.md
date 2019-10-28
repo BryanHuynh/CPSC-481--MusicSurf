@@ -1,4 +1,4 @@
-[home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) 
+[home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage3) 
 ## Secondary Research
 ### Findings 
 A workshop done by White et al. [9] on user engaged search system offers some general implications for exploratory search interfaces. One such important implication is the difficulty of testing such a system due to long term use and evolution of how a user will approach the system.
