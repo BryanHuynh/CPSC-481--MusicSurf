@@ -1,7 +1,6 @@
 [home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) 
 ## Stage 3: Ideation
 [Demo](https://www.youtube.com/watch?v=NZVA_vplFzc)
-<img src="sketch1.png" alt="hi" class="inline"/>
 
 ### User Research Methods, Justifications and Reflections
 
