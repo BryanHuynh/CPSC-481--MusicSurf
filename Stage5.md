@@ -132,11 +132,19 @@ Our team set out with the unenviable task of innovating over the design of commo
 ### References
 
 [1] Andjelkovic, I., Parra, D., & Odonovan, J. (2016). Moodplay. Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization - UMAP 16. doi: 10.1145/2930238.2930280
+
 [2] Dalhuijsen, L., & van Velthoven , L. (2010). MusicalNodes – the visual music library . Proceedings of the 2010 International Conference on Electronic Visualisation and the Arts, 232–236.
+
 [3] Dias, R. J., & Fonseca, M. (2010). MuVis: An application for interactive exploration of large music collections. MM'10 - Proceedings of the ACM Multimedia 2010 International Conference, 1043-1046.
+
 [4] Fujino, H., Hasida, K., & Matsubara, Y. (2017). Music exploration by impression based interaction. Proceedings of the 2017 ACM Workshop on Exploratory Search and Interactive Data Analytics, 5-58. doi: 10.1145/3038462.3038468
+
 [5] Lee, J. H., Hill, T., & Work, L. (2012). What does music mood mean for real users? Proceedings of the 2012 IConference on, 112-119. doi: 10.1145/2132176.2132191
+
 [6] Muelder, C., Provan, T., & Ma, K.-L. (2010). Content based graph visualization of audio data for music library navigation. 2010 IEEE International Symposium on Multimedia, 129-136. doi: 10.1109/ism.2010.27
+
 [7] Neumayer, R., Dittenbach, M., & Rauber, A. (2005). Playsom and Pocketsomplayer, alternative interfaces to large music collections. International Society for Music Information Retrieval.
+
 [8] Schedl, M., Höglinger, C., & Knees, P. (2011). Large-scale music exploration in hierarchically organized landscapes using prototypicality information. Proceedings of the 1st ACM International Conference on Multimedia Retrieval, 1-7. doi: 10.1145/1991996.1992004
+
 [9] Wu, X., Qiao, Y., & Tang, X. (2015). MIL: Music Exploration and Visualization via Lyric and Image. Proceedings of the 23rd ACM International Conference on Multimedia, 1011-1014.
