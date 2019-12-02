@@ -5,6 +5,8 @@
 
 [Stage 5 Presentation](https://docs.google.com/presentation/d/1r_z5hTgDfi-9M7GlhujWok-vSH9DAdP3jtr8uc9FcOg/edit?usp=sharing)
 
+[Final Report](https://drive.google.com/file/d/1tGbPjhHVUTHIbIOlkiVv5bJQON67nUHh/view?usp=sharing)
+
 ### Executive Summary
 
 MusicSurf is an innovative music platform that enables its users to explore and organize music in a visual way. Currently, conventional music platforms like Spotify, Apple Music, and Youtube Music rely on lists to display music and black box algorithms to recommend it. However, this restricts users from freely navigating, discovering, and customizing their music listening experience. Our solution has benefits for music labels and music artists looking to distribute their music and find a new audience. MusicSurf is also tailored to music listeners, no matter their music exploration or library organization preferences. To better understand our end-users, we conducted interviews and secondary research. From the interviews, we found that people often find new music through friends and the recommendation algorithm of their prefered music platform. Interviewees also judged platforms based on ease of use and music selection. From our academic research, we learned that automatic grouping systems for music are feasible and that mood based categorization is a complex, but desirable, system for music organization. Based on these findings, we developed MusicSurf, focusing on the design and functionality of the exploration, library, and now playing features. 
@@ -105,19 +107,15 @@ Explore page help documentation
 
 Profile page
 
-<img src="stats1.png" alt="hi" class="inline"/>
-<img src="stats2.png" alt="hi" class="inline"/>
-<img src="stats3.png" alt="hi" class="inline"/>
+<img src="profile1.PNG" alt="hi" class="inline"/>
+<img src="profile2.PNG" alt="hi" class="inline"/>
+<img src="profile3.PNG" alt="hi" class="inline"/>
 
 Friends page
 
 <img src="friends1.PNG" alt="hi" class="inline"/>
-<img src="findfriends1.png" alt="hi" class="inline"/>
+<img src="friends3.PNG" alt="hi" class="inline"/>
 <img src="friends4.PNG" alt="hi" class="inline"/>
-
-Friend's profile
-
-<img src="friendprofile.png" alt="hi" class="inline"/>
 
 Settings page
 
