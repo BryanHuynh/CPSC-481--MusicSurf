@@ -8,17 +8,29 @@
 
 [Heuritic Evaluation of Green Thumb Raw](https://github.com/colinauyeng/CPSC-481--MusicSurf/blob/master/Heuristic%20Evaluation%20of%20Green%20Thumb.xlsx)
 
-
 ### Executive Summary
 
 
 ### Design Problem
 
 
-### End-user and Stakeholders
+### End-users and Stakeholders
 
 
 ### User Research and Findings
 
 
-### Justification & Conclusion
+### Design and Justification 
+
+
+### Heuristic Evaluation and Findings
+
+
+### Design Changes
+
+
+### Recommendations for Next Iteration
+
+
+### Conclusions
+
