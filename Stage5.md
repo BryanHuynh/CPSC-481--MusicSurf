@@ -23,12 +23,12 @@
 ### Heuristic Evaluation and Findings
 A heuristic evaluation conducted on this prototype by another team of designers resulted a series of severe to minor bugs and technical difficulties.  
 
-<img src="heu_eval.PNG" alt="eval" class="inline"/>
+<img src="heu_eval.png" alt="eval" class="inline"/>
 
 ### Design Changes
 Now playing page without lyrics tab
 
-<img src="nowplaying.png" alt="hi" class="inline"/>
+<img src="nowplaying.PNG" alt="hi" class="inline"/>
 
 Exploration control menu integrated into the explore page
 
