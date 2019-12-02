@@ -3,6 +3,7 @@
 
 [Final High Fidelity Prototype](https://drive.google.com/file/d/1YGWRNDLZexqBZQJFfyZv6C5ae9IFz7nT/view?usp=sharing)
 
+[Stage 5 Presentation](https://docs.google.com/presentation/d/1r_z5hTgDfi-9M7GlhujWok-vSH9DAdP3jtr8uc9FcOg/edit?usp=sharing)
 
 ### Executive Summary
 
