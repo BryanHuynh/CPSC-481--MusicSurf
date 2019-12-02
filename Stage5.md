@@ -23,6 +23,8 @@
 ### Heuristic Evaluation and Findings
 A heuristic evaluation conducted on this prototype by another team of designers resulted a series of severe to minor bugs and technical difficulties.  
 
+<img src="heu_eval.PNG" alt="eval" class="inline"/>
+
 ### Design Changes
 Now playing page without lyrics tab
 
