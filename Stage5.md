@@ -105,15 +105,19 @@ Explore page help documentation
 
 Profile page
 
-<img src="profile1.PNG" alt="hi" class="inline"/>
-<img src="profile2.PNG" alt="hi" class="inline"/>
-<img src="profile3.PNG" alt="hi" class="inline"/>
+<img src="stats1.png" alt="hi" class="inline"/>
+<img src="stats2.png" alt="hi" class="inline"/>
+<img src="stats3.png" alt="hi" class="inline"/>
 
 Friends page
 
 <img src="friends1.PNG" alt="hi" class="inline"/>
-<img src="friends3.PNG" alt="hi" class="inline"/>
+<img src="findfriends1.png" alt="hi" class="inline"/>
 <img src="friends4.PNG" alt="hi" class="inline"/>
+
+Friend's profile
+
+<img src="friendprofile.png" alt="hi" class="inline"/>
 
 Settings page
 
