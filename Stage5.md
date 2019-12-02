@@ -28,7 +28,7 @@ A heuristic evaluation conducted on this prototype by another team of designers 
 ### Design Changes
 Now playing page without lyrics tab
 
-<img src="nowplaying.PNG" alt="hi" class="inline"/>
+<img src="nowplaying.png" alt="hi" class="inline"/>
 
 Exploration control menu integrated into the explore page
 
