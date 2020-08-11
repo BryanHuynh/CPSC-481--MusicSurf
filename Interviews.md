@@ -1,4 +1,4 @@
-[Home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage4) - [Stage5](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage5)  
+[Home](https://colinauyeung.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage4) - [Stage5](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage5)  
 ## Interviews
 ### Questions
 1. When do you like to listen to music, and how often?
