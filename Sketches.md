@@ -1,4 +1,4 @@
-[home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage4)  
+[Home](https://colinauyeung.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage4) - [Stage5](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage5)    
 ## Sketches
 <img src="sketch1.png" alt="hi" class="inline"/>
 
