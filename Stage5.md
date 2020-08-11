@@ -1,4 +1,4 @@
-﻿[Home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage4) - [Stage5](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage5)  
+[Home](https://colinauyeung.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage4) - [Stage5](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage5)  
 ## Stage 5: Final Project Iteration
 
 [Final High Fidelity Prototype](https://drive.google.com/file/d/1YGWRNDLZexqBZQJFfyZv6C5ae9IFz7nT/view?usp=sharing)
