@@ -1,4 +1,4 @@
-[Home](https://colinauyeng.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage4) - [Stage5](https://colinauyeng.github.io/CPSC-481--MusicSurf/Stage5)  
+[Home](https://colinauyeung.github.io/CPSC-481--MusicSurf/) - [Stage1](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage1) - [Stage2](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage2) - [Stage3](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage3) - [Stage4](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage4) - [Stage5](https://colinauyeung.github.io/CPSC-481--MusicSurf/Stage5)  
 ## Stage 3: Ideation
 [Low Fidelity prototype pdf](https://github.com/colinauyeng/CPSC-481--MusicSurf/raw/master/MusicSurf%20Low-Fi%20Submission.pdf)
 
